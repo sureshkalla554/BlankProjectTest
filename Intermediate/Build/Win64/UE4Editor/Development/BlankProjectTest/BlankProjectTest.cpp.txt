@@ -1,0 +1,2 @@
+E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\Definitions.BlankProjectTest.h
+E:\Game Projects\BlankProjectTest\Source\BlankProjectTest\BlankProjectTest.h

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BlankProjectTest-0620.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\BlankProjectTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\BlankProjectTest.cpp.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\BlankProjectTestGameModeBase.cpp.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\HeightMapMeshActor.cpp.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\BlankProjectTest.init.gen.cpp.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\BlankProjectTestGameModeBase.gen.cpp.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\HeightMapMeshActor.gen.cpp.obj"
+"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\Default.rc2.res"
+/OUT:"E:\Game Projects\BlankProjectTest\Intermediate\Build\Win64\UE4Editor\Development\BlankProjectTest\UE4Editor-BlankProjectTest-0620.lib"

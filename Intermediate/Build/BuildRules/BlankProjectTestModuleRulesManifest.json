@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Game Projects\\BlankProjectTest\\Source\\BlankProjectTest\\BlankProjectTest.Build.cs",
+		"E:\\Game Projects\\BlankProjectTest\\Source\\BlankProjectTest.Target.cs",
+		"E:\\Game Projects\\BlankProjectTest\\Source\\BlankProjectTestEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

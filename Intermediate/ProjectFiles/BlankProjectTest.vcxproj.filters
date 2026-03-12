@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BlankProjectTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7CD416C3-E220-4663-B27C-99E68D593CAF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlankProjectTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BlankProjectTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{83E16340-5D08-424D-814D-170C35A061C2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BlankProjectTest">
+      <UniqueIdentifier>{F8674672-3416-4E8C-9AD1-F88DC4571E14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BlankProjectTest\BlankProjectTest.Build.cs">
+      <Filter>Source\BlankProjectTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BlankProjectTest\BlankProjectTest.cpp">
+      <Filter>Source\BlankProjectTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlankProjectTest\BlankProjectTest.h">
+      <Filter>Source\BlankProjectTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlankProjectTest\BlankProjectTestGameModeBase.cpp">
+      <Filter>Source\BlankProjectTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlankProjectTest\BlankProjectTestGameModeBase.h">
+      <Filter>Source\BlankProjectTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BlankProjectTest\HeightMapMeshActor.cpp">
+      <Filter>Source\BlankProjectTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BlankProjectTest\HeightMapMeshActor.h">
+      <Filter>Source\BlankProjectTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
